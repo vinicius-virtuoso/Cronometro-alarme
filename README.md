@@ -1,7 +1,7 @@
 # Cronometro-Alarme
 
 ## Porfavor Deixe seu feedbak e resoluções a respeito dele :).
-## Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
+Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
