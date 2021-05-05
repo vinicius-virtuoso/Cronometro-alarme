@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cronometro</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+</head>
+<body class="madal">
+  
+  <main class="main">
+    <audio id="sound" src="alarm.mp3" style="display: none;"></audio>
+    
+    <div class="all-boxs">
+      <div class="box-content">
+        <div class="minutos">
+          <h4>Minutos</h4>
+        </div>
+        <div class="content">
+          <div class="box-crono">
+            <div class="box-minutos">
+              <div class="titulo-text">
+                <span id="min-js" class="text-span">00</span>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div> 
+       <div class="box-content">
+        <div class="minutos">
+          <h4>Segundos</h4>
+        </div>
+        <div class="content">
+          <div class="box-crono">
+            <div class="box-minutos">
+              <div class="titulo-text">
+                <span id="seg-js" class="text-span">00</span>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div>
+    </div>
+
+   <div class="box-input-options">
+    <select id="js-select-min" class="box" name="min">
+      <option value="0" selected disabled>Selecione os minutos</option>
+      <!-- <option value="5">5</option>
+      <option value="10">10</option>
+      <option value="15">15</option>
+      <option value="20">20</option>
+      <option value="25">25</option>
+      <option value="30">30</option>
+      <option value="35">35</option>
+      <option value="40">40</option>
+      <option value="45">45</option>
+      <option value="50">50</option>
+      <option value="55">55</option>
+      <option value="60">60</option> -->
+    </select>
+    <select id="js-select-seg" class="box" name="min" value="1">
+      <option value="0" selected disabled>Selecione os segundos</option>
+      <!-- <option value="5">5</option>
+      <option value="10">10</option>
+      <option value="15">15</option>
+      <option value="20">20</option>
+      <option value="25">25</option>
+      <option value="30">30</option>
+      <option value="35">35</option>
+      <option value="40">40</option>
+      <option value="45">45</option>
+      <option value="50">50</option>
+      <option value="55">55</option>
+      <option value="60">60</option> -->
+    </select>
+   </div>
+   <button id="btnStart" type="button" class="btn btn-1 disabled">Começar</button>
+  </main>
+
+  <div class="box-modal">
+    <div class="modal">
+      <span class="span-alert">O tempo acabou!</span>
+    </div>
+    <button id="btnClose" class="btn btn-2" type="button">Fechar</button>
+  </div>
+
+
+
+
+ <script src="./script.js"></script> 
+</body>
+</html>
