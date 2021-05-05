@@ -11,7 +11,7 @@ Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
   </a>
   
   <a href="#">
-    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-CSS3-informational>
+    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-CSS3-informational">
   </a>
   
   <a href="#">
