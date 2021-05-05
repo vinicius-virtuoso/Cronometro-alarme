@@ -7,14 +7,14 @@ Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
 <p align="center">
   
   <a href="#">
-    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-HTML-<COLOR>">
+    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-HTML-red">
   </a>
   
   <a href="#">
-    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-CSS3-<COLOR>">
+    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-CSS3-blue>
   </a>
   
   <a href="#">
-    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-JAVASCRIPT-<COLOR>">
+    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-JAVASCRIPT-yellow">
   </a>
 </p>
