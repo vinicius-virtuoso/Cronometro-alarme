@@ -7,7 +7,7 @@ Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="">
 
   <a href="https://www.twitter.com/tgmarinho/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
