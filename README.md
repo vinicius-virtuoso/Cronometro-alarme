@@ -6,10 +6,7 @@ Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
 
 ## TECNOLOGIAS
 
-<p align="center">
-  
-  
-  
+<p>
   <a href="#">
     <img alt="Stargazers" src="https://img.shields.io/badge/HTML-red">
   </a>
