@@ -2,7 +2,7 @@
 
 Porfavor Deixe seu feedbak e resoluções a respeito dele 😊.
 </br>
-Um projeto pessoal feito por mim, agora que iniciei os estudo de JAVASCRIPT.
+Um projeto pessoal feito por mim, agora que iniciei os estudos de JAVASCRIPT.
 
 ## TECNOLOGIAS
 
