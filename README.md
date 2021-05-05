@@ -1,6 +1,6 @@
 # Cronometro-Alarme
 
-## Porfavor Deixe seu feedbak e resoluções a respeito dele :).
+Porfavor Deixe seu feedbak e resoluções a respeito dele :).
 Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
 
 <p align="center">
