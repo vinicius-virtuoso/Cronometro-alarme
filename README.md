@@ -15,6 +15,6 @@ Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
   </a>
   
   <a href="#">
-    <img alt="Stargazers" src="https://img.shields.io/badge/<LABEL>-JAVASCRIPT-yellow">
+    <img alt="Stargazers" src="https://img.shields.io/badge/JAVASCRIPT-yellow">
   </a>
 </p>
