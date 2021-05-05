@@ -1,8 +1,8 @@
 # Cronometro-Alarme
 
-Porfavor Deixe seu feedbak e resoluções a respeito dele :).
+Porfavor Deixe seu feedbak e resoluções a respeito dele 😊.
 </br>
-Um projeto pessoal feito por mim, agora que iniciei os estudo de JavaScript.
+Um projeto pessoal feito por mim, agora que iniciei os estudo de <img alt="Stargazers" src="https://img.shields.io/badge/JAVASCRIPT-yellow">.
 
 ## TECNOLOGIAS
 
